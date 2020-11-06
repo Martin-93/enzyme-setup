@@ -2,6 +2,7 @@
 
 ## Dev Dependecies
 
-``yarn add enzyme @types/enzyme enzyme-to-json enzyme-adapter-react-16 -D
+~~````JavaScript
+yarn add anzyme
 
-Aqui poner las dependencias
+````~~
