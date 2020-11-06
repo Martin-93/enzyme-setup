@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas GifGridItem should be retrun the correct component 1`] = `ShallowWrapper {}`;
