@@ -2,7 +2,4 @@
 
 ## Dev Dependecies
 
-~~````JavaScript
-yarn add anzyme
-
-````~~
+~yarn add~
